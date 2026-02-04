@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-function App() {
+function TodoApp() {
   const [tasks, setTasks] = useState([]);
   const [text, setText] = useState("");
   const [priority, setPriority] = useState("Medium");
@@ -235,4 +235,4 @@ function App() {
   );
 }
 
-export default App;
+export default TodoApp;
