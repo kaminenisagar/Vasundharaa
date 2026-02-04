@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vasundharaa/static/css/main.7d14c610.css",
+    "main.js": "/Vasundharaa/static/js/main.671e82d3.js",
+    "static/js/453.cc607e55.chunk.js": "/Vasundharaa/static/js/453.cc607e55.chunk.js",
+    "index.html": "/Vasundharaa/index.html",
+    "main.7d14c610.css.map": "/Vasundharaa/static/css/main.7d14c610.css.map",
+    "main.671e82d3.js.map": "/Vasundharaa/static/js/main.671e82d3.js.map",
+    "453.cc607e55.chunk.js.map": "/Vasundharaa/static/js/453.cc607e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d14c610.css",
+    "static/js/main.671e82d3.js"
+  ]
+}
